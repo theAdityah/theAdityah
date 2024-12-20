@@ -4,9 +4,9 @@ I'm a passionate **Full Stack Developer** proficient in various programming lang
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript, Python, Java, C#, HTML, CSS
-- **Frameworks:** React, Node.js, Express.js, Django, Spring Boot
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js, Golang, Python
+- **Databases:** MongoDB, MySQL, Redis
 - **Tools & Technologies:** Git, Docker, AWS, RESTful APIs
 
 ## 🌟 Explore My Projects
