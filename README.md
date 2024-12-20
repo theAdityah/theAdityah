@@ -15,7 +15,7 @@ Check out my portfolio to see some of the projects I've worked on: [My Portfolio
 
 ## 🌱 I’m Currently Learning
 
-- Golang/Git 
+- Golang/Gin (Framework), Docker
 - AI/ML
 
 ## 🤝 Let's Connect!
