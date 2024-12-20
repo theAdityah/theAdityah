@@ -9,13 +9,11 @@ I'm a passionate **Full Stack Developer** proficient in various programming lang
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools & Technologies:** Git, Docker, AWS, RESTful APIs
 
-## 🌟 Explore my projects on: (https://theadityah.github.io/portfolio/)
+## 🌟 Explore My Projects
 
-## 📈 GitHub Stats
+Check out my portfolio to see some of the projects I've worked on: [My Portfolio](https://theadityah.github.io/portfolio/)
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theAdityah&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
-## 🌱 I’m currently learning
+## 🌱 I’m Currently Learning
 
 - Golang/Git 
 - AI/ML
