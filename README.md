@@ -9,34 +9,22 @@ I'm a passionate **Full Stack Developer** proficient in various programming lang
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools & Technologies:** Git, Docker, AWS, RESTful APIs
 
-## 🌟 Projects
-
-Here are some of my notable projects:
-
-1. **[Project Name 1](https://github.com/yourusername/project1)**  
-   A brief description of what this project does and the technologies used.
-
-2. **[Project Name 2](https://github.com/yourusername/project2)**  
-   A brief description of what this project does and the technologies used.
-
-3. **[Project Name 3](https://github.com/yourusername/project3)**  
-   A brief description of what this project does and the technologies used.
+## 🌟 Explore my projects on: (https://github.com/yourusername/project1](https://theadityah.github.io/portfolio/)
 
 ## 📈 GitHub Stats
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theAdityah&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ## 🌱 I’m currently learning
 
-- [New Technology or Framework]
-- [Another Technology or Framework]
+- Golang/Git 
+- AI/ML
 
 ## 🤝 Let's Connect!
 
 Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](http://www.linkedin.com/in/go-on-adityakumar)
+- [Instagram](https://www.instagram.com/iamrajputaditya/)
 
 Thank you for visiting my profile! I'm always open to collaborating on interesting projects or discussing new ideas.
