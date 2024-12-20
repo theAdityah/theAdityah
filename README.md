@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Developer** proficient in various programming lang
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools & Technologies:** Git, Docker, AWS, RESTful APIs
 
-## 🌟 Explore my projects on: (https://github.com/yourusername/project1](https://theadityah.github.io/portfolio/)
+## 🌟 Explore my projects on: (https://theadityah.github.io/portfolio/)
 
 ## 📈 GitHub Stats
 
